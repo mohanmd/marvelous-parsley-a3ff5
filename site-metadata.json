@@ -26,7 +26,7 @@
             {
                 "label": "Careers",
                 "url": "/contact",
-                "style": "primary"
+                "style": "link"
             }
         ],
         "logo": "images/logo.svg"
