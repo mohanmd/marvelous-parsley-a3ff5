@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Powerful apps for your business Growth
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      The app that can help you to optimize and atomize your business processes
+      and can be interconnected with all to provide a fully-integrated
+      experience and cost effectivefly.
     actions:
       - label: Learn More
         url: /features
