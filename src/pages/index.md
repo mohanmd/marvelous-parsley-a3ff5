@@ -11,9 +11,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/ScopeX homepage FINAL.png
     image_alt: Hero placeholder image
