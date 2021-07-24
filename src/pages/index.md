@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Powerfull apps for your business Growth
+    title: Powerful apps for your business Growth
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
