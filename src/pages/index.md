@@ -8,7 +8,7 @@ sections:
       and can be interconnected with all to provide a fully-integrated
       experience and cost effectivefly.
     actions:
-      - label: Learn More
+      - label: Schedule a Demo
         url: /features
         style: primary
     align: left
