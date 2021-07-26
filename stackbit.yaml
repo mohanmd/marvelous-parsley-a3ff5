@@ -608,5 +608,5 @@ models:
     type: object
     label: grid
     fields:
-      - name: ''
+      - name: grid_column
         type: string
