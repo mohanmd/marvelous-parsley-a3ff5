@@ -53,9 +53,11 @@
         }
 
         &:hover{
-            background-color: #ff9800;
-            img{
-                filter: invert(1) brightness(1) contrast(5);
+            .grid-item-image { 
+                background-color: #ff9800;
+                img{
+                    filter: invert(1) brightness(1) contrast(5);
+                }
             }
         }
     }
