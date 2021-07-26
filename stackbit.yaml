@@ -615,3 +615,5 @@ models:
       - name: section_title
         type: string
         label: Section Title
+      - name: ''
+        type: string
