@@ -25,7 +25,7 @@ sections:
     features:
       - title: Flexible Modules Customizable according your unique needs
         align: left
-        image: images/feature.svg
+        image: images/Flexible module  image.svg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
