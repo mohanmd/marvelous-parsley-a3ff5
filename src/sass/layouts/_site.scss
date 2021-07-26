@@ -19,7 +19,14 @@
     &.grid-col-3{
         .grid-item {
             max-width: 33.3%;
-            width: 100%
+            width: 100%;
+            .grid-item-image {
+                width: 70px;
+                height: 70px;
+                border: 2px solid #ff9800;
+                padding: 16px;
+                border-radius: 100px;
+            }
         }
     }
 }
