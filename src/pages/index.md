@@ -64,6 +64,7 @@ sections:
         icon: images/Facilities management.svg
       - grid_title: Real Estate & Rentals
         type: grid_item
+        icon: images/Real estate and rentals.svg
     type: grid_section
 seo:
   title: Stackbit Starter Theme
