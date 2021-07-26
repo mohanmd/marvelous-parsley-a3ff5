@@ -20,12 +20,12 @@ export default class GridSection extends React.Component {
                       <div className="grid-item-inside">
                         {_.get(item, 'image', null) && (
                         <div className="grid-item-image">
-                          <img src={withPrefix(_.get(item, 'icon', null))} alt={_.get(item, 'image_alt', null)} />
+                          <img src={withPrefix(_.get(item, 'icon', null))}  />
                         </div>
                         )}
                         {_.get(item, 'image', null) && (
                         <div className="grid-item-title">
-                          <img src={withPrefix(_.get(item, 'grid_title', null))} alt={_.get(item, 'image_alt', null)} />
+                          <img src={withPrefix(_.get(item, 'grid_title', null))}  />
                         </div>
                         )}
                       </div>
