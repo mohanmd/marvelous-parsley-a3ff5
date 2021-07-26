@@ -604,7 +604,7 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  grid:
+  grid-item:
     type: object
     label: grid
     fields:
@@ -620,3 +620,4 @@ models:
         label: Section Title
       - name: ''
         type: string
+        label: ''
