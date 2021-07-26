@@ -614,3 +614,4 @@ models:
         default: '3'
       - name: section_title
         type: string
+        label: Section Title
