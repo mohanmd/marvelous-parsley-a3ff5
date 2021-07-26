@@ -6,9 +6,9 @@ export default class GridSection extends React.Component {
         console.log(this.props);
         // let section = _.get(this.props, 'section', null);
         return (
-            <h1>Grid section</h1>
             <section className={classNames('gfg'))}>
                 
+            <h1>Grid section</h1>
             </section>
             // <section id={_.get(section, 'section_id', null)} className={classNames('block', 'block-grid', 'outer', {'has-header': _.get(section, 'title', null) || _.get(section, 'subtitle', null)})}>
             //   <div className="inner">
