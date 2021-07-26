@@ -25,7 +25,7 @@ export default class GridSection extends React.Component {
                         )}
                         {_.get(item, 'image', null) && (
                         <div className="grid-item-title">
-                          <img src={withPrefix(_.get(item, 'image', null))} alt={_.get(item, 'image_alt', null)} />
+                          <img src={withPrefix(_.get(item, 'grid_title', null))} alt={_.get(item, 'image_alt', null)} />
                         </div>
                         )}
                       </div>
