@@ -49,7 +49,9 @@ sections:
     background_color: gray
   - grid_column: '3'
     section_title: Apps can be grouped and packeged to serve various industrial sectors
-    grid_item: []
+    grid_item:
+      - grid_title: lorem-ipsum
+        type: grid_item
     type: grid_section
 seo:
   title: Stackbit Starter Theme
