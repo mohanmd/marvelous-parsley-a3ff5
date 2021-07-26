@@ -604,7 +604,7 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  grid-item:
+  grid-section:
     type: object
     label: Grid Section
     fields:
