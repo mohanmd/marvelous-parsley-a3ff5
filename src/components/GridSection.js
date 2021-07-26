@@ -10,7 +10,7 @@ export default class GridSection extends React.Component {
             <section className={classNames('gfg')}>   
                 <h1>Grid section</h1>
                 {_.get(section, 'section_title', null) && (
-                  <h2 className="block-title">{_.get(section, 'section_title', null)}</h2>
+                  <h1 className="block-title">{_.get(section, 'section_title', null)}</h2>
                 )}
             </section>
             // <section id={_.get(section, 'section_id', null)} className={classNames('block', 'block-grid', 'outer', {'has-header': _.get(section, 'title', null) || _.get(section, 'subtitle', null)})}>
