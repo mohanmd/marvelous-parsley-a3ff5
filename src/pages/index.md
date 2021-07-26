@@ -74,6 +74,8 @@ sections:
       - grid_title: Education & E-learning
         type: grid_item
         icon: images/nervous-spinach.svg
+      - grid_title: lorem-ipsum
+        type: grid_item
     type: grid_section
 seo:
   title: Stackbit Starter Theme
