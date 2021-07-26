@@ -620,7 +620,7 @@ models:
             value: Four Column
       - name: section_title
         type: string
-        label: Section Title
+        label: Section Title1
       - name: grid_item
         type: list
         label: Grid Items
