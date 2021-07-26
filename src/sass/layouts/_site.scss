@@ -38,6 +38,10 @@
 .insutrial_sectors{ 
     background-size: contain;
     background-repeat: no-repeat;
+    .block-content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
     .card{
         text-align: center;
         padding-top: 20px;
