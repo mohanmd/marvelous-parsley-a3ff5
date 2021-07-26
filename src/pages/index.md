@@ -87,6 +87,7 @@ sections:
         type: grid_item
         icon: images/Social network.svg
     type: grid_section
+    class_name: insutrial_sectors
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
