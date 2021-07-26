@@ -83,7 +83,7 @@ sections:
       - grid_title: Power Technology
         type: grid_item
         icon: images/Power technology.svg
-      - grid_title: lorem-ipsum
+      - grid_title: Social Network
         type: grid_item
     type: grid_section
 seo:
