@@ -67,6 +67,7 @@ sections:
         icon: images/Real estate and rentals.svg
       - grid_title: 'Construction '
         type: grid_item
+        icon: images/Construction.svg
     type: grid_section
 seo:
   title: Stackbit Starter Theme
