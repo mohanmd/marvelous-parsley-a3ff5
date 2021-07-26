@@ -12,7 +12,7 @@ sections:
         url: /features
         style: secondary
     align: left
-    image: images/ScopeX homepage FINAL.png
+    image: images/Banner Image.svg
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
