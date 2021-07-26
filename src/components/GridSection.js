@@ -12,7 +12,7 @@ export default class GridSection extends React.Component {
                   <h1 className="block-title">{_.get(section, 'section_title', null)}</h1>
                 )}
 
-                {_.get(section, 'grid_items', null) && (
+                {_.get(section, 'grid_item', null) && (
                 <div className="block-content">
                   <div className={classNames('grid', {'grid-col-2': _.get(section, 'col_number', null) === 'two', 'grid-col-3': _.get(section, 'col_number', null) === 'three'})}>
                     {_.map(_.get(section, 'grid_item', null), (item, item_idx) => (
