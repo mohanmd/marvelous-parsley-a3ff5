@@ -612,5 +612,5 @@ models:
         type: string
         label: Grid Column
         default: '3'
-      - name: ''
+      - name: section_title
         type: string
