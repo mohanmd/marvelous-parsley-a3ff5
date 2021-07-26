@@ -47,7 +47,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - grid_column: Four Column
+  - grid_column: four
     section_title: Apps can be grouped and packeged to serve various industrial sectors
     grid_item:
       - grid_title: Sales & Service
