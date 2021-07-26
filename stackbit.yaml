@@ -628,7 +628,7 @@ models:
           type: model
           models:
             - grid_item
-      - name: ''
+      - name: class_name
         type: string
   grid_item:
     type: object
