@@ -74,7 +74,7 @@ sections:
       - grid_title: Education & E-learning
         type: grid_item
         icon: images/nervous-spinach.svg
-      - grid_title: lorem-ipsum
+      - grid_title: Logistics
         type: grid_item
       - grid_title: lorem-ipsum
         type: grid_item
