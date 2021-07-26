@@ -627,3 +627,4 @@ models:
     fields:
       - name: grid_title
         type: string
+        label: Grid Title
