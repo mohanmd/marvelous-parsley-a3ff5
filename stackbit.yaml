@@ -609,9 +609,12 @@ models:
     label: grid
     fields:
       - name: grid_column
-        type: number
+        type: enum
         label: Grid Column
         default: '3'
+        options:
+          - label: ''
+            value: ''
       - name: section_title
         type: string
         label: Section Title
