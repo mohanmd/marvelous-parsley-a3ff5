@@ -9,7 +9,6 @@ export default class GridSection extends React.Component {
 
         return (
             <section className={classNames('Gridsection',_.get(section, 'class_name', null))}>  
-                <div class=""></div>
                 <div className="container container--lg">
                     {_.get(section, 'section_title', null) && (
                     <h1 className="block-title">{_.get(section, 'section_title', null)}</h1>
