@@ -79,6 +79,7 @@ sections:
         icon: images/Logistics.svg
       - grid_title: Health Care
         type: grid_item
+        icon: images/melodic-oregano.svg
     type: grid_section
 seo:
   title: Stackbit Starter Theme
