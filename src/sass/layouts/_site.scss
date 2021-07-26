@@ -29,7 +29,7 @@
                 &:hover{
                     background-color: #ff9800;
                     img{
-                        filter: invert;
+                        filter: invert();
                     }
                 }
             }
