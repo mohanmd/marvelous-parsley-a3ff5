@@ -614,7 +614,7 @@ models:
         label: Grid Column
         default: four
         options:
-          - label: T
+          - label: Three Colu
             value: three
           - label: four
             value: four
