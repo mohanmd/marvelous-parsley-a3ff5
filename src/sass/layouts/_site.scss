@@ -59,7 +59,7 @@
             transform: scale(1.031);
             transition: .3s;
             .grid-item-image { 
-                background-color: #ff9800;
+                background-color: #f2883a;
                 img{
                     filter: invert(1) brightness(1) contrast(5);
                 }
@@ -69,7 +69,7 @@
     .grid-item-image { 
         width: 70px;
         height: 70px;
-        border: 2px solid #ff9800;
+        border: 2px solid #f2883a;
         padding: 16px;
         border-radius: 100px;
         margin: 0 auto 30px;
