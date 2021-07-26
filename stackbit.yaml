@@ -628,3 +628,5 @@ models:
       - name: grid_title
         type: string
         label: Grid Title
+      - name: ''
+        type: string
