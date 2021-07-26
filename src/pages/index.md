@@ -80,6 +80,8 @@ sections:
       - grid_title: Health Care
         type: grid_item
         icon: images/melodic-oregano.svg
+      - grid_title: lorem-ipsum
+        type: grid_item
     type: grid_section
 seo:
   title: Stackbit Starter Theme
