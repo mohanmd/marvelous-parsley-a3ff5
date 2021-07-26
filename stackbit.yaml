@@ -611,3 +611,4 @@ models:
       - name: grid_column
         type: string
         label: Grid Column
+        default: '3'
