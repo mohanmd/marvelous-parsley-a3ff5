@@ -630,3 +630,4 @@ models:
         label: Grid Title
       - name: icon
         type: image
+        label: Grid Icon
