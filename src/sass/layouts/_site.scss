@@ -38,6 +38,9 @@
 .insutrial_sectors{ 
     background-size: contain;
     background-repeat: no-repeat;
+    .card{
+        text-align: center
+    }
     .grid-item-image { 
         width: 70px;
         height: 70px;
@@ -45,6 +48,7 @@
         padding: 16px;
         border-radius: 100px;
         margin-bottom: 40px;
+        margin: 0 auto;
         img{
             height: 100%;
             width: 100%;
