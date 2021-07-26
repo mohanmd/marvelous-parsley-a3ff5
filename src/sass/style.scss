@@ -1,5 +1,8 @@
-.grid.grid-col-3 {
-    .grid-item {
-        width: 33%;
+.grid {
+    display: flex;
+    &.grid-col-3{
+        .grid-item {
+            width: 33%;
+        }
     }
 }
