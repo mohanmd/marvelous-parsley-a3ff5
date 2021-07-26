@@ -618,10 +618,10 @@ models:
         type: string
         label: Section Title
       - name: grid_item
-        type: model
+        type: list
         label: Grid Items
-        models:
-          - grid_item
+        items:
+          type: string
   grid_item:
     type: object
     label: Grid Item
