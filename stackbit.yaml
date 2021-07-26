@@ -629,4 +629,4 @@ models:
         type: string
         label: Grid Title
       - name: icon
-        type: string
+        type: image
