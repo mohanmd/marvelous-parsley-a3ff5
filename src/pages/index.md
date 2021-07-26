@@ -53,7 +53,7 @@ sections:
       - grid_title: Sales & Service
         type: grid_item
         icon: images/Sales and service icon.svg
-      - grid_title: lorem-ipsum
+      - grid_title: Manufacturing
         type: grid_item
         icon: images/Education.svg
       - grid_title: lorem-ipsum
