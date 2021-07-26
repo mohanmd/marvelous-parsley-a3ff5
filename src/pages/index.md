@@ -48,7 +48,7 @@ sections:
     has_background: true
     background_color: gray
   - grid_column: '3'
-    section_title: lorem-ipsum
+    section_title: Apps can be grouped and packeged to serve various industrial sectors
     grid_item: []
     type: grid_section
 seo:
