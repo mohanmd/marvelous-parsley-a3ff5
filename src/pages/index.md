@@ -55,6 +55,7 @@ sections:
         icon: images/hero.svg
       - grid_title: lorem-ipsum
         type: grid_item
+        icon: images/Education.svg
     type: grid_section
 seo:
   title: Stackbit Starter Theme
