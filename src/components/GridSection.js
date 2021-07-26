@@ -1,5 +1,5 @@
 import React from 'react'; 
-import {classNames, htmlToReact, withPrefix, Link, markdownify} from '../utils';
+import {classNames} from '../utils';
 
 export default class GridSection extends React.Component {
     render() {
