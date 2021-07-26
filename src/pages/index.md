@@ -58,7 +58,7 @@ sections:
         icon: images/Education.svg
       - grid_title: Trading & Retails
         type: grid_item
-      - grid_title: lorem-ipsum
+      - grid_title: Facilities Management
         type: grid_item
     type: grid_section
 seo:
