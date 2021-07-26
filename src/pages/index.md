@@ -71,7 +71,7 @@ sections:
       - grid_title: Oil & Gas
         type: grid_item
         icon: images/Oil and Gas.svg
-      - grid_title: lorem-ipsum
+      - grid_title: Education & E-learning
         type: grid_item
     type: grid_section
 seo:
