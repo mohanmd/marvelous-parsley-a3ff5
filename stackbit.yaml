@@ -619,7 +619,7 @@ models:
         label: Section Title
       - name: grid_item
         type: model
-        label: ''
+        label: Grid Items
         models:
           - grid_item
   grid_item:
