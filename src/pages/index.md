@@ -80,7 +80,7 @@ sections:
       - grid_title: Health Care
         type: grid_item
         icon: images/melodic-oregano.svg
-      - grid_title: lorem-ipsum
+      - grid_title: Power Technology
         type: grid_item
     type: grid_section
 seo:
