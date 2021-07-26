@@ -606,7 +606,7 @@ models:
               label: Relative Url
   grid-item:
     type: object
-    label: grid
+    label: Grid Section
     fields:
       - name: grid_column
         type: enum
