@@ -85,6 +85,7 @@ sections:
         icon: images/Power technology.svg
       - grid_title: Social Network
         type: grid_item
+        icon: images/Social network.svg
     type: grid_section
 seo:
   title: Stackbit Starter Theme
