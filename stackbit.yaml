@@ -633,6 +633,7 @@ models:
             - grid_item
       - name: bg_images
         type: image
+        label: Background Image
   grid_item:
     type: object
     label: Grid Item
