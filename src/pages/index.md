@@ -52,7 +52,7 @@ sections:
     grid_item:
       - grid_title: lorem-ipsum
         type: grid_item
-        icon: images/hero.svg
+        icon: images/Sales and service icon.svg
       - grid_title: lorem-ipsum
         type: grid_item
         icon: images/Education.svg
