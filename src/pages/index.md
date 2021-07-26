@@ -50,7 +50,7 @@ sections:
   - grid_column: '3'
     section_title: Apps can be grouped and packeged to serve various industrial sectors
     grid_item:
-      - grid_title: lorem-ipsum
+      - grid_title: Sales & Service
         type: grid_item
         icon: images/Sales and service icon.svg
       - grid_title: lorem-ipsum
