@@ -621,7 +621,8 @@ models:
         type: list
         label: Grid Items
         items:
-          type: string
+          type: model
+          models: []
   grid_item:
     type: object
     label: Grid Item
