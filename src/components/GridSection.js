@@ -4,9 +4,9 @@ import {classNames, htmlToReact, withPrefix, Link, markdownify} from '../utils';
 
 export default class GridSection extends React.Component {
     render() {
-        console.log(this.props);
+        console.log(this.props.section);
         let section = _.get(this.props, 'section', null);
-        
+
         return (
             <section className={classNames('gfg')}>  
                 {_.get(section, 'section_title', null) && (
