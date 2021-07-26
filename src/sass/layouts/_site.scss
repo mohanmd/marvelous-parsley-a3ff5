@@ -54,6 +54,10 @@
 
         &:hover{
             box-shadow: 0px 0px 14px 3px #00000014;
+            background: ;
+            /* border-color: #eee; */
+            transform: scale(1.031);
+            transition: .3s;
             .grid-item-image { 
                 background-color: #ff9800;
                 img{
