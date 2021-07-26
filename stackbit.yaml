@@ -613,8 +613,7 @@ models:
         label: Grid Column
         default: '3'
         options:
-          - label: ''
-            value: ''
+          - three
       - name: section_title
         type: string
         label: Section Title
