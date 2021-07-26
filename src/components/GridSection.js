@@ -11,7 +11,7 @@ export default class GridSection extends React.Component {
                 {_.get(section, 'section_title', null) && (
                   <h1 className="block-title">{_.get(section, 'section_title', null)}</h1>
                 )}
-                
+
                 {_.get(section, 'grid_items', null) && (
                 <div className="block-content">
                   <div className={classNames('grid', {'grid-col-2': _.get(section, 'col_number', null) === 'two', 'grid-col-3': _.get(section, 'col_number', null) === 'three'})}>
@@ -39,7 +39,7 @@ export default class GridSection extends React.Component {
                         )}
                         {_.get(item, 'actions', null) && (
                         <div className="grid-item-buttons">
-                          <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} />
+                          {/* <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} /> */}
                         </div>
                         )}
                       </div>
