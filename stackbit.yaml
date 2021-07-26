@@ -630,6 +630,7 @@ models:
             - grid_item
       - name: class_name
         type: string
+        label: Add Class
   grid_item:
     type: object
     label: Grid Item
