@@ -609,7 +609,7 @@ models:
     label: grid
     fields:
       - name: grid_column
-        type: string
+        type: number
         label: Grid Column
         default: '3'
       - name: section_title
