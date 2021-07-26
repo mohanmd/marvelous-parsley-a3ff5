@@ -65,7 +65,7 @@ sections:
       - grid_title: Real Estate & Rentals
         type: grid_item
         icon: images/Real estate and rentals.svg
-      - grid_title: lorem-ipsum
+      - grid_title: 'Construction '
         type: grid_item
     type: grid_section
 seo:
