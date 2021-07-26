@@ -624,7 +624,7 @@ models:
       - name: class_name
         type: string
         label: Add Class
-      - name: bg_images
+      - name: bg_image
         type: image
         label: Background Image
         description: This Image add to the Section Background
