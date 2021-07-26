@@ -73,6 +73,7 @@ sections:
         icon: images/Oil and Gas.svg
       - grid_title: Education & E-learning
         type: grid_item
+        icon: images/Health care.svg
     type: grid_section
 seo:
   title: Stackbit Starter Theme
