@@ -616,7 +616,7 @@ models:
         options:
           - label: Three Column
             value: three
-          - label: Fou Column
+          - label: Four Column
             value: four
       - name: section_title
         type: string
