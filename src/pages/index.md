@@ -68,7 +68,7 @@ sections:
       - grid_title: 'Construction '
         type: grid_item
         icon: images/Construction.svg
-      - grid_title: lorem-ipsum
+      - grid_title: Oil & Gas
         type: grid_item
       - grid_title: lorem-ipsum
         type: grid_item
