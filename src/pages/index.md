@@ -55,7 +55,7 @@ sections:
         icon: images/Sales and service icon.svg
       - grid_title: Manufacturing
         type: grid_item
-        icon: images/Education.svg
+        icon: images/Manufacturing icon.svg
       - grid_title: Trading & Retails
         type: grid_item
         icon: images/Trading and retails.svg
