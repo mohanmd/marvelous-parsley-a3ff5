@@ -61,6 +61,7 @@ sections:
         icon: images/Trading and retails.svg
       - grid_title: Facilities Management
         type: grid_item
+        icon: images/Facilities management.svg
       - grid_title: lorem-ipsum
         type: grid_item
     type: grid_section
