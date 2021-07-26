@@ -634,6 +634,7 @@ models:
       - name: bg_images
         type: image
         label: Background Image
+        description: This Image add to the Section Background
   grid_item:
     type: object
     label: Grid Item
