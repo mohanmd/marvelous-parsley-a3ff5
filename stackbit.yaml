@@ -614,8 +614,10 @@ models:
         label: Grid Column
         default: three
         options:
-          - Three Column
-          - Four
+          - label: three
+            value: Three Column
+          - label: four
+            value: Four Column
       - name: section_title
         type: string
         label: Section Title
