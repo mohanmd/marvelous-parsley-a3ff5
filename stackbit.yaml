@@ -612,7 +612,7 @@ models:
       - name: grid_column
         type: enum
         label: Grid Column
-        default: '3'
+        default: three
         options:
           - three
       - name: section_title
