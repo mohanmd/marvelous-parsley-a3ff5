@@ -19,7 +19,7 @@ export default class GridSection extends React.Component {
                     <div className={classNames('grid', {'grid-col-4': _.get(section, 'grid_column', null) === 'four', 'grid-col-3': _.get(section, 'grid_column', null) === '3'})}>
                         {_.map(_.get(section, 'grid_item', null), (item, item_idx) => (
                         <div key={item_idx} className="grid-item">
-                        <div className="grid-item-inside">
+                        <div className="grid-item-inside ca">
                             {_.get(item, 'icon', null) && (
                             <div className="grid-item-image">
                             <img src={withPrefix(_.get(item, 'icon', null))}  />
