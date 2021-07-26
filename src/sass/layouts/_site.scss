@@ -51,6 +51,13 @@
             font-size: 19px;
             font-weight: 500;
         }
+
+        &:hover{
+            background-color: #ff9800;
+            img{
+                filter: invert(1) brightness(1) contrast(5);
+            }
+        }
     }
     .grid-item-image { 
         width: 70px;
