@@ -34,25 +34,20 @@
 .insutrial_sectors{ 
     background-size: contain;
     background-repeat: no-repeat;
-    .grid-item{
-        max-width: 24%;
-        width: 100%;
-        padding: 11px;
-        .grid-item-image { 
-            width: 70px;
-            height: 70px;
-            border: 2px solid #ff9800;
-            padding: 16px;
-            border-radius: 100px;
+    .grid-item-image { 
+        width: 70px;
+        height: 70px;
+        border: 2px solid #ff9800;
+        padding: 16px;
+        border-radius: 100px;
+        img{
+            height: 100%;
+            width: 100%;
+        }
+        &:hover{
+            background-color: #ff9800;
             img{
-                height: 100%;
-                width: 100%;
-            }
-            &:hover{
-                background-color: #ff9800;
-                img{
-                    filter: invert(1) brightness(1) contrast(5);
-                }
+                filter: invert(1) brightness(1) contrast(5);
             }
         }
     }
