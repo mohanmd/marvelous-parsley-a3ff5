@@ -62,7 +62,7 @@ sections:
       - grid_title: Facilities Management
         type: grid_item
         icon: images/Facilities management.svg
-      - grid_title: lorem-ipsum
+      - grid_title: Real Estate & Rentals
         type: grid_item
     type: grid_section
 seo:
