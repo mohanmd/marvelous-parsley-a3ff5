@@ -35,7 +35,8 @@
     background-size: contain;
     background-repeat: no-repeat;
     .grid-item{
-        
+        max-width: 24%;
+        width: 100%;
         .grid-item-image { 
             width: 70px;
             height: 70px;
