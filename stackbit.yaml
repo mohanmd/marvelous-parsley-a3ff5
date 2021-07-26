@@ -628,5 +628,5 @@ models:
       - name: grid_title
         type: string
         label: Grid Title
-      - name: ''
+      - name: icon
         type: string
