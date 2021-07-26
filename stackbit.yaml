@@ -618,5 +618,6 @@ models:
         type: string
         label: Section Title
       - name: ''
-        type: string
+        type: model
         label: ''
+        models: []
