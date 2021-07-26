@@ -13,3 +13,11 @@
   flex-grow: 1;
   width: 100%;
 }
+.grid {
+    display: flex;
+    &.grid-col-3{
+        .grid-item {
+            width: 33%;
+        }
+    }
+}
