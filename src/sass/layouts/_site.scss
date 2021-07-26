@@ -31,7 +31,9 @@
         }
     }
 }
-.insutrial_sectors{
+.insutrial_sectors{ 
+    background-size: contain;
+    background-repeat: no-repeat;
     .grid-item-image { 
         width: 70px;
         height: 70px;
