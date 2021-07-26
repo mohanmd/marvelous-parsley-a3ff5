@@ -607,3 +607,6 @@ models:
   grid:
     type: object
     label: grid
+    fields:
+      - name: ''
+        type: string
