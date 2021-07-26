@@ -35,22 +35,21 @@
     background-size: contain;
     background-repeat: no-repeat;
     .grid-item{
-        
-    }
-    .grid-item-image { 
-        width: 70px;
-        height: 70px;
-        border: 2px solid #ff9800;
-        padding: 16px;
-        border-radius: 100px;
-        img{
-            height: 100%;
-            width: 100%;
-        }
-        &:hover{
-            background-color: #ff9800;
+        .grid-item-image { 
+            width: 70px;
+            height: 70px;
+            border: 2px solid #ff9800;
+            padding: 16px;
+            border-radius: 100px;
             img{
-                filter: invert(1) brightness(1) contrast(5);
+                height: 100%;
+                width: 100%;
+            }
+            &:hover{
+                background-color: #ff9800;
+                img{
+                    filter: invert(1) brightness(1) contrast(5);
+                }
             }
         }
     }
