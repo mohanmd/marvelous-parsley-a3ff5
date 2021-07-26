@@ -621,3 +621,6 @@ models:
         type: model
         label: ''
         models: []
+  grid_item:
+    type: object
+    label: grid_item
