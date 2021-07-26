@@ -68,6 +68,8 @@ sections:
       - grid_title: 'Construction '
         type: grid_item
         icon: images/Construction.svg
+      - grid_title: lorem-ipsum
+        type: grid_item
     type: grid_section
 seo:
   title: Stackbit Starter Theme
