@@ -82,6 +82,7 @@ sections:
         icon: images/melodic-oregano.svg
       - grid_title: Power Technology
         type: grid_item
+        icon: images/Power technology.svg
     type: grid_section
 seo:
   title: Stackbit Starter Theme
