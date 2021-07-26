@@ -625,5 +625,5 @@ models:
     type: object
     label: Grid Item
     fields:
-      - name: ''
+      - name: grid_title
         type: string
