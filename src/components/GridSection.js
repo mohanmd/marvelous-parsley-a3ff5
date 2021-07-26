@@ -27,7 +27,7 @@ export default class GridSection extends React.Component {
                             )}
                             {_.get(item, 'grid_title', null) && (
                             <div className="grid-item-title">
-                                <h4>{(_.get(item, 'grid_title', null))} </h4>
+                                <div className="">{(_.get(item, 'grid_title', null))} </h4>
                             </div>
                             )}
                         </div>
