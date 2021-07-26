@@ -1,6 +1,4 @@
-import React from 'react';
-import _ from 'lodash';
-
+import React from 'react'; 
 import {classNames, htmlToReact, withPrefix, Link, markdownify} from '../utils';
 
 export default class GridSection extends React.Component {
