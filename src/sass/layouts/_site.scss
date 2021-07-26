@@ -15,6 +15,7 @@
 }
 .grid {
     display: flex;
+    flex-wrap: wrap;
     &.grid-col-3{
         .grid-item {
             max-width: 33.3%;
