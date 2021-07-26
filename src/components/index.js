@@ -32,7 +32,8 @@ export {
     HeroSection,
     SectionActions,
     TeamSection,
-    Layout
+    Layout,
+    GridSection
 };
 
 export default {
