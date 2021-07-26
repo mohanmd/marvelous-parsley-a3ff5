@@ -20,22 +20,22 @@
         .grid-item {
             max-width: 33.3%;
             width: 100%;
-            .grid-item-image { 
-                width: 70px;
-                height: 70px;
-                border: 2px solid #ff9800;
-                padding: 16px;
-                border-radius: 100px;
-                &:hover{
-                    background-color: #ff9800;
-                    img{
-                        filter: invert(1) brightness(1) contrast(5);
-                    }
-                }
-            }
+            
         }
     }
 }
 .insutrial_sectors{
-    
+    .grid-item-image { 
+        width: 70px;
+        height: 70px;
+        border: 2px solid #ff9800;
+        padding: 16px;
+        border-radius: 100px;
+        &:hover{
+            background-color: #ff9800;
+            img{
+                filter: invert(1) brightness(1) contrast(5);
+            }
+        }
+    }
 }
