@@ -9,32 +9,34 @@ export default class GridSection extends React.Component {
 
         return (
             <section className={classNames('gfg')}>  
-                {_.get(section, 'section_title', null) && (
-                  <h1 className="block-title">{_.get(section, 'section_title', null)}</h1>
-                )}
+                <div className="inner">
+                    {_.get(section, 'section_title', null) && (
+                    <h1 className="block-title">{_.get(section, 'section_title', null)}</h1>
+                    )}
 
-                {_.get(section, 'grid_item', null) && (
-                <div className="block-content">
-                  <div className={classNames('grid', {'grid-col-2': _.get(section, 'grid_column', null) === 'two', 'grid-col-3': _.get(section, 'grid_column', null) === '3'})}>
-                    {_.map(_.get(section, 'grid_item', null), (item, item_idx) => (
-                    <div key={item_idx} className="grid-item">
-                      <div className="grid-item-inside">
-                        {_.get(item, 'icon', null) && (
-                        <div className="grid-item-image">
-                          <img src={withPrefix(_.get(item, 'icon', null))}  />
+                    {_.get(section, 'grid_item', null) && (
+                    <div className="block-content">
+                    <div className={classNames('grid', {'grid-col-2': _.get(section, 'grid_column', null) === 'two', 'grid-col-3': _.get(section, 'grid_column', null) === '3'})}>
+                        {_.map(_.get(section, 'grid_item', null), (item, item_idx) => (
+                        <div key={item_idx} className="grid-item">
+                        <div className="grid-item-inside">
+                            {_.get(item, 'icon', null) && (
+                            <div className="grid-item-image">
+                            <img src={withPrefix(_.get(item, 'icon', null))}  />
+                            </div>
+                            )}
+                            {_.get(item, 'grid_title', null) && (
+                            <div className="grid-item-title">
+                                <h4>{(_.get(item, 'grid_title', null))} </h4>
+                            </div>
+                            )}
                         </div>
-                        )}
-                        {_.get(item, 'grid_title', null) && (
-                        <div className="grid-item-title">
-                            <h4>{(_.get(item, 'grid_title', null))} </h4>
                         </div>
-                        )}
-                      </div>
+                        ))}
                     </div>
-                    ))}
-                  </div>
+                    </div>
+                    )}
                 </div>
-                )}
             </section>
             // <section id={_.get(section, 'section_id', null)} className={classNames('block', 'block-grid', 'outer', {'has-header': _.get(section, 'title', null) || _.get(section, 'subtitle', null)})}>
             //   <div className="inner">
