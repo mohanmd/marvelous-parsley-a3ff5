@@ -65,6 +65,8 @@ sections:
       - grid_title: Real Estate & Rentals
         type: grid_item
         icon: images/Real estate and rentals.svg
+      - grid_title: lorem-ipsum
+        type: grid_item
     type: grid_section
 seo:
   title: Stackbit Starter Theme
