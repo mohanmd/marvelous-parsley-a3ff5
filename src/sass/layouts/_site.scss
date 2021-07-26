@@ -59,7 +59,7 @@ h1.block-title {
         padding-bottom: 2e;
         border-radius: 3px;
     }
-    :before {
+    &:before {
         content: '';
         position: absolute;
         height: 2px;
