@@ -631,6 +631,8 @@ models:
           type: model
           models:
             - grid_item
+      - name: bg_images
+        type: string
   grid_item:
     type: object
     label: Grid Item
