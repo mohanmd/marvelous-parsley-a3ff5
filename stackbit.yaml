@@ -621,6 +621,9 @@ models:
       - name: section_title
         type: string
         label: Section Title1
+      - name: class_name
+        type: string
+        label: Add Class
       - name: grid_item
         type: list
         label: Grid Items
@@ -628,9 +631,6 @@ models:
           type: model
           models:
             - grid_item
-      - name: class_name
-        type: string
-        label: Add Class
   grid_item:
     type: object
     label: Grid Item
