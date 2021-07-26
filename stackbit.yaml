@@ -620,7 +620,8 @@ models:
       - name: ''
         type: model
         label: ''
-        models: []
+        models:
+          - grid_item
   grid_item:
     type: object
     label: Grid Item
