@@ -6,7 +6,7 @@ export default class GridSection extends React.Component {
         console.log(this.props);
         // let section = _.get(this.props, 'section', null);
         return (
-            <section className={classNames('gfg'))}>
+            <section className={classNames('gfg')}>
                 
             <h1>Grid section</h1>
             </section>
