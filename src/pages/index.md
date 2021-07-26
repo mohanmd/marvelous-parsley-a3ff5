@@ -70,6 +70,7 @@ sections:
         icon: images/Construction.svg
       - grid_title: Oil & Gas
         type: grid_item
+        icon: images/Oil and Gas.svg
       - grid_title: lorem-ipsum
         type: grid_item
     type: grid_section
