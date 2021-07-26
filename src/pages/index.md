@@ -56,7 +56,7 @@ sections:
       - grid_title: Manufacturing
         type: grid_item
         icon: images/Education.svg
-      - grid_title: lorem-ipsum
+      - grid_title: Trading & Retails
         type: grid_item
       - grid_title: lorem-ipsum
         type: grid_item
