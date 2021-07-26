@@ -624,3 +624,6 @@ models:
   grid_item:
     type: object
     label: Grid Item
+    fields:
+      - name: ''
+        type: string
