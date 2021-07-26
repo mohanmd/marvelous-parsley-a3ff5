@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Schedule a Demo
         url: /features
-        style: primary
+        style: secondary
     align: left
     image: images/ScopeX homepage FINAL.png
     image_alt: Hero placeholder image
