@@ -272,7 +272,8 @@ models:
           - stackbit_page_meta
         label: Seo
       - name: Grid Section
-        type: string
+        type: model
+        models: []
   blog_feed_section:
     type: object
     label: Blog Feed Section
