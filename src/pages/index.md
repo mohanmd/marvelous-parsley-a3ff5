@@ -47,12 +47,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - grid_column: '3'
-    section_title: lorem-ipsum
-    grid_item:
-      - grid_title: lorem-ipsum
-        type: grid_item
-    type: grid_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
