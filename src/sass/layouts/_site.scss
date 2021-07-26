@@ -65,7 +65,9 @@ h1.block-title {
         bottom: 4px;
     }
 }
-
+section.section.section--posts {
+    display: none;
+}
 .insutrial_sectors{ 
     background-size: contain;
     background-repeat: no-repeat;
