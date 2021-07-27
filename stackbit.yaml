@@ -678,4 +678,5 @@ models:
         description: 'Add shape for section '
       - name: ''
         type: model
-        models: []
+        models:
+          - grid_item
