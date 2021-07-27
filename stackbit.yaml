@@ -675,3 +675,4 @@ models:
       - name: bg_shape
         type: image
         label: Background Shape
+        description: 'Add shape for section '
