@@ -657,3 +657,4 @@ models:
             value: three
       - name: section_title
         type: string
+        label: Section Title
