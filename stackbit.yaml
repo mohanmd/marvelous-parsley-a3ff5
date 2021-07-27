@@ -267,6 +267,7 @@ models:
             - hero_section
             - team_section
             - grid_section
+            - contactsection
       - type: model
         name: seo
         models:
