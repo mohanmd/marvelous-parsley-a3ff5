@@ -78,16 +78,6 @@ sections:
     type: grid_section
     class_name: insutrial_sectors
     bg_images: images/Apps banner image.svg
-  - section_title: lorem-ipsum
-    grid_column:
-      label: Three
-      value: three
-    class_name: contact_section
-    section_bg:
-      label: Orange
-      value: '#f2883a'
-    grid_item: []
-    type: contactsection
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
