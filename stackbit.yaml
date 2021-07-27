@@ -670,3 +670,5 @@ models:
         options:
           - label: Orange
             value: '#f2883a'
+          - label: ''
+            value: ''
