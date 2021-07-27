@@ -9,6 +9,7 @@ export default class Contact extends React.Component {
         // let section = _.get(this.props, 'section', null);
 
         return (
+            <h1>Welcome</h1>
             // <section className={classNames('Gridsection',_.get(section, 'class_name', null))} style={toStyleObj('background-image: url(\'' + withPrefix(_.get(section, 'bg_images', null)) + '\')')}>  
             //     <div className="container container--lg">
             //         {_.get(section, 'section_title', null) && (
