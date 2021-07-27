@@ -88,7 +88,6 @@ sections:
       value: '#f2883a'
     grid_item: []
     type: contactsection
-  - type: contact_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
