@@ -661,5 +661,6 @@ models:
       - name: class_name
         type: string
         default: contact_section
+        label: Class Name
       - name: ''
         type: string
