@@ -655,5 +655,5 @@ models:
         options:
           - label: Three
             value: three
-      - name: ''
+      - name: section_title
         type: string
