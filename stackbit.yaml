@@ -668,5 +668,4 @@ models:
         label: Background Color
         description: add background color for section
         options:
-          - label: ''
-            value: ''
+          - ''
