@@ -649,6 +649,6 @@ models:
     type: object
     label: Contact Section
     fields:
-      - name: ''
+      - name: grid_column
         type: string
         label: ''
