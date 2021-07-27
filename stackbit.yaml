@@ -681,3 +681,4 @@ models:
         items:
           type: string
         label: Grid Item
+        description: Add column for contact
