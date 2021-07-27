@@ -673,4 +673,4 @@ models:
           - label: Grey
             value: '#474948'
       - name: bg_shape
-        type: string
+        type: image
