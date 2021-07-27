@@ -674,3 +674,4 @@ models:
             value: '#474948'
       - name: bg_shape
         type: image
+        label: Background Shape
