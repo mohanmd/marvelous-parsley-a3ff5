@@ -267,7 +267,7 @@ models:
             - hero_section
             - team_section
             - grid_section
-            - contactsection
+            - contact
       - type: model
         name: seo
         models:
@@ -649,7 +649,7 @@ models:
       - name: has_contact
         type: boolean
         label: Has Contact
-  contactsection:
+  contact:
     type: object
     label: Contact Section
     fields:
