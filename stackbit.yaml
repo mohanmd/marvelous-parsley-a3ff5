@@ -660,3 +660,4 @@ models:
             value: three
       - name: class_name
         type: string
+        default: contact_section
