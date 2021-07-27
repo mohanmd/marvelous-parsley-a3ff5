@@ -67,7 +67,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Starter theme
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: images/ScopeX homepage FINAL.jpg
       relativeUrl: true
 template: advanced
 ---
