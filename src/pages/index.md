@@ -48,7 +48,6 @@ sections:
     type: contactsection
 seo:
   title: Scopex Apps India Private Ltd
-  description: The preview of the Starter theme
   extra:
     - name: 'og:type'
       value: website
