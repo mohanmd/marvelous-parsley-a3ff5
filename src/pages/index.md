@@ -47,7 +47,7 @@ sections:
     grid_item: []
     type: contactsection
 seo:
-  title: Stackbit Starter Theme
+  title: Scopex Apps India Private Ltd
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
