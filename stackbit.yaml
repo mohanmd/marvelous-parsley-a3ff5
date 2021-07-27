@@ -664,6 +664,9 @@ models:
         label: Class Name
         description: It is defined section class
       - name: section_bg
-        type: string
+        type: enum
         label: Background Color
         description: add background color for section
+        options:
+          - label: ''
+            value: ''
