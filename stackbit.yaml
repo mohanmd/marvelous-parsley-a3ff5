@@ -658,5 +658,5 @@ models:
         options:
           - label: Three
             value: three
-      - name: ''
+      - name: class_name
         type: string
