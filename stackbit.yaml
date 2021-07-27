@@ -653,5 +653,4 @@ models:
         type: enum
         label: ''
         options:
-          - label: ''
-            value: ''
+          - three
