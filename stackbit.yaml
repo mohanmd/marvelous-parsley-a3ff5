@@ -663,5 +663,5 @@ models:
         default: contact_section
         label: Class Name
         description: It is defined section class
-      - name: ''
+      - name: section_bg
         type: string
