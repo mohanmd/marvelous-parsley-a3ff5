@@ -677,4 +677,5 @@ models:
         label: Background Shape
         description: 'Add shape for section '
       - name: ''
-        type: string
+        type: model
+        models: []
