@@ -645,7 +645,7 @@ models:
       - name: icon
         type: image
         label: Grid Icon
-  Contact Section:
+  '':
     type: object
     label: contactsection
     fields:
