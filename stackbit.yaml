@@ -196,7 +196,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title111
+        label: Title
         description: The title of the post
         required: true
       - type: date
