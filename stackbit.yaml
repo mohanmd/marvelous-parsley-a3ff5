@@ -677,6 +677,6 @@ models:
         label: Background Shape
         description: 'Add shape for section '
       - name: ''
-        type: model
-        models:
-          - grid_item
+        type: list
+        items:
+          type: string
