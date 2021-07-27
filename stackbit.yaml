@@ -259,7 +259,6 @@ models:
         items:
           type: model
           models:
-            - blog_feed_section
             - contact_section
             - content_section
             - cta_section
