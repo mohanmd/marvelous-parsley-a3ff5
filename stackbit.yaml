@@ -306,7 +306,7 @@ models:
           - category
   contact_section:
     type: object
-    label: Contact Section old
+    label: Contact Section
   content_section:
     type: object
     label: Content Section
