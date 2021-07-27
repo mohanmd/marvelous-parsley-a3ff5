@@ -64,8 +64,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Scopex Apps India Private Ltd
-    - name: 'twitter:description'
-      value: The preview of the Starter theme
     - name: 'twitter:image'
       value: images/ScopeX homepage FINAL.jpg
       relativeUrl: true
