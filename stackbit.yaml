@@ -651,7 +651,7 @@ models:
     fields:
       - name: grid_column
         type: enum
-        label: ''
+        label: Grid Column
         options:
           - label: Three
             value: three
