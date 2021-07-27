@@ -33,7 +33,8 @@ export {
     SectionActions,
     TeamSection,
     Layout,
-    GridSection
+    GridSection,
+    Contact
 };
 
 export default {
