@@ -666,3 +666,4 @@ models:
       - name: section_bg
         type: string
         label: Background Color
+        description: add background color for section
