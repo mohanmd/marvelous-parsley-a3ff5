@@ -647,7 +647,7 @@ models:
         type: image
         label: Grid Icon
       - name: ''
-        type: string
+        type: boolean
   contactsection:
     type: object
     label: Contact Section
