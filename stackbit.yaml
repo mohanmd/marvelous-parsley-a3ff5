@@ -665,3 +665,4 @@ models:
         description: It is defined section class
       - name: section_bg
         type: string
+        label: Background Color
