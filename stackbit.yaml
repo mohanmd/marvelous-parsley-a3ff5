@@ -661,3 +661,5 @@ models:
       - name: class_name
         type: string
         default: contact_section
+      - name: ''
+        type: string
