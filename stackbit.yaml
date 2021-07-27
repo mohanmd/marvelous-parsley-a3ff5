@@ -650,5 +650,8 @@ models:
     label: Contact Section
     fields:
       - name: grid_column
-        type: string
+        type: enum
         label: ''
+        options:
+          - label: ''
+            value: ''
