@@ -15,7 +15,6 @@ import SectionActions from './SectionActions';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
 import GridSection from './GridSection';
-import Contact from './Contact';
 
 export {
     Action,
@@ -34,8 +33,7 @@ export {
     SectionActions,
     TeamSection,
     Layout,
-    GridSection,
-    Contact
+    GridSection
 };
 
 export default {
@@ -55,6 +53,5 @@ export default {
     SectionActions,
     TeamSection,
     Layout,
-    GridSection,
-    Contact
+    GridSection
 };
