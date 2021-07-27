@@ -672,3 +672,5 @@ models:
             value: '#f2883a'
           - label: Grey
             value: '#474948'
+      - name: ''
+        type: string
