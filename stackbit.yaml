@@ -196,7 +196,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Title111
         description: The title of the post
         required: true
       - type: date
@@ -648,6 +648,7 @@ models:
         label: Grid Icon
       - name: has_contact
         type: boolean
+        label: Has Contact
   contactsection:
     type: object
     label: Contact Section
