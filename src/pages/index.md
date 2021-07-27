@@ -56,9 +56,6 @@ seo:
     - name: 'og:title'
       value: Scopex Apps India Private Ltd
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Starter theme
-      keyName: property
     - name: 'og:image'
       value: images/ScopeX homepage FINAL.jpg
       keyName: property
