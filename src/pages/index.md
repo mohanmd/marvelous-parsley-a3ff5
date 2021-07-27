@@ -60,7 +60,7 @@ seo:
       value: The preview of the Starter theme
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: images/ScopeX homepage FINAL.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
