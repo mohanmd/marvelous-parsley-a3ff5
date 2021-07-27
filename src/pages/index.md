@@ -36,48 +36,6 @@ sections:
     title: Apps can be grouped and packeged to serve various industrial sectors
     show_recent: true
     recent_count: 3
-  - grid_column: four
-    section_title: Apps can be grouped and packeged to serve various industrial sectors
-    grid_item:
-      - grid_title: Sales & Service
-        type: grid_item
-        icon: images/Sales and service icon.svg
-      - grid_title: Manufacturing
-        type: grid_item
-        icon: images/Manufacturing icon.svg
-      - grid_title: Trading & Retails
-        type: grid_item
-        icon: images/Trading and retails.svg
-      - grid_title: Facilities Management
-        type: grid_item
-        icon: images/Facilities management.svg
-      - grid_title: Real Estate & Rentals
-        type: grid_item
-        icon: images/Real estate and rentals.svg
-      - grid_title: 'Construction '
-        type: grid_item
-        icon: images/Construction.svg
-      - grid_title: Oil & Gas
-        type: grid_item
-        icon: images/Oil and Gas.svg
-      - grid_title: Education & E-learning
-        type: grid_item
-        icon: images/nervous-spinach.svg
-      - grid_title: Logistics
-        type: grid_item
-        icon: images/Logistics.svg
-      - grid_title: Health Care
-        type: grid_item
-        icon: images/melodic-oregano.svg
-      - grid_title: Power Technology
-        type: grid_item
-        icon: images/Power technology.svg
-      - grid_title: Social Network
-        type: grid_item
-        icon: images/Social network.svg
-    type: grid_section
-    class_name: insutrial_sectors
-    bg_images: images/Apps banner image.svg
   - section_title: lorem-ipsum
     grid_column:
       label: Three
