@@ -262,8 +262,6 @@ models:
             - contact_section
             - content_section
             - cta_section
-            - hero_section
-            - team_section
             - grid_section
       - type: model
         name: seo
